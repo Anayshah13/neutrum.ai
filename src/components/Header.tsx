@@ -6,9 +6,8 @@ export function Header() {
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <div className="flex items-center">
           <img 
-            src="https://framerusercontent.com/images/ErwlJddrv4vTGZdMPVOuyNc.png" 
-            alt="Sama Logo" 
-            className="h-5"
+            src="image (3).png" 
+            className="h-14 w-35"
           />
         </div>
         <nav className="hidden md:flex items-center space-x-8">

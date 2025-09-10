@@ -8,13 +8,13 @@ export function Hero() {
           <div className="space-y-8">
             <div className="space-y-6">
               <h1 className="text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
-                Suljhao, Magar
+                Resolve,
                 <br />
-                <span className="text-blue-600">Pyaar Se</span>
+                <span className="text-blue-600">But with Empathy</span>
               </h1>
               <p className="text-xl text-gray-600 leading-relaxed">
-                Sama helps you resolve your disputes quickly, fairly, and cost effectively. 
-                We've resolved over 35 Lakh disputes in India.
+                Neutrum AI helps you resolve your disputes quickly, fairly, and cost effectively. 
+                We've resolved over 47 Lakh disputes in India.
               </p>
             </div>
             <div className="flex flex-col sm:flex-row gap-4">
@@ -28,8 +28,8 @@ export function Hero() {
           </div>
           <div className="relative">
             <img 
-              src="https://framerusercontent.com/images/5LvDOcqn6WXZMyWtwtZGsSaI8u0.png?scale-down-to=512" 
-              alt="Woman with headset" 
+              src="./hero.png" 
+              alt="hero image" 
               className="w-full max-w-md mx-auto rounded-2xl shadow-2xl"
             />
           </div>
